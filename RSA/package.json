@@ -1,0 +1,14 @@
+{
+  "name": "rsa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "euclidea.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "export": "^0.1.337"
+  }
+}
